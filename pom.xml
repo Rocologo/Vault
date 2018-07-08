@@ -73,10 +73,10 @@ Vault currently supports the following: Permissions 3, PEX, GroupManager, bPerms
 			<id>escapecraft-repo</id>
 			<url>http://dev.escapecraft.com/maven</url>
 		</repository>
-		<!-- Used for BagOfGold / MobHunting -->
+		<!-- Used for BagOfGold / MobHunting / Droxperms 0.5.0-->
 		<repository>
 			<id>fractal</id>
-			<url>https://fractal.lindegaard.one:8187/artifactory/plugins-release/</url>
+			<url>https://fractal.lindegaard.one:8187/plugins-release/</url>
 		</repository>
 	</repositories>
 
